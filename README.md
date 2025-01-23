@@ -27,10 +27,9 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<div style="position: relative; padding-bottom: 61.36363636363637%; height: 0;"><iframe src="https://www.loom.com/embed/e8c0c9729ab24a35a4329b8a79679026?sid=4bf487b5-64c6-4107-b351-86696824974f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 ## Notes
 
