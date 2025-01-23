@@ -27,11 +27,14 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom 
-<div style="position: relative; padding-bottom: 61.36363636363637%; height: 0;"><iframe src="https://www.loom.com/embed/e8c0c9729ab24a35a4329b8a79679026?sid=4bf487b5-64c6-4107-b351-86696824974f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-
-## Notes
+<div>
+    <a href="https://www.loom.com/share/e8c0c9729ab24a35a4329b8a79679026">
+      <p>web102-prework - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e8c0c9729ab24a35a4329b8a79679026">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e8c0c9729ab24a35a4329b8a79679026-93c3dab657727fe5-full-play.gif">
+    </a>
+  </div>
 
 Describe any challenges encountered while building the app.
 
